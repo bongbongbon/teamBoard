@@ -12,7 +12,7 @@
 
 
 ### 기술 스펙 리스트업
--SPRING BOOT ;'
+-SPRING BOOT 
 
 -JAVA 
 
