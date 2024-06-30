@@ -12,5 +12,15 @@
 
 
 ### 기술 스펙 리스트업
-SPRING BOOT, JAVA, REDIS, AWS(RDS, EC2, S3), DOCKER, JPA
+-SPRING BOOT ;'
+
+-JAVA 
+
+-REDIS 
+
+-AWS(RDS, EC2, S3) 
+
+-DOCKER
+
+-JPA
 
