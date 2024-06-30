@@ -11,6 +11,6 @@
 -게임 카테고리별로 게시판 작성 및 댓글로 커뮤니티 형성
 
 
-## 기술 스펙 리스트업
+### 기술 스펙 리스트업
 SPRING BOOT, JAVA, REDIS, AWS(RDS, EC2, S3), DOCKER, JPA
 
